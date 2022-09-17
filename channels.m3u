@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="DAZN LaLiga", DAZN LA LIGA
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF:-1 group-title="DAZN LaLiga", DAZN LIGA_HD_M
+acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+#EXTINF:-1 group-title="DAZN LaLiga", DAZN LIGA_M
+acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 1080 MultiAudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga test 1080 Multi 
@@ -63,10 +67,6 @@ acestream://04e3bf3f11804affbc766d62b95dc382e2bbc85c
 acestream://c81fb4bec54fed86737544c5609bb863b4acb292
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", LIGA SMARTBANK
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
-#EXTINF:-1 group-title="M+ LaLiga Smartbank", SMARTBANK_M
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
-#EXTINF:-1 group-title="M+ LaLiga Smartbank", SMARTBANK_HD_M
-acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 1080 MultiAudio
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", smartbank 2 1080 
