@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="DAZN LaLiga", DAZN LA LIGA
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LIGA_HD_M
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LIGA_M
-acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 1080 MultiAudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga test 1080 Multi 
@@ -127,6 +123,8 @@ acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes", MOVISTAR DEPORTES
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2
+#EXTINF:-1 group-title="M+ Deportes", #VAMOS_HD_M
+acestream://cd4965e740f8e01f47cef1b9dc0517b806cd38b5
 #EXTINF:-1 group-title="M+ Deportes", # Vamos 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes", M. Deportes 1080
