@@ -27,10 +27,6 @@ acestream://2bb483350a420da686c5ec597c0ebb729fe908b3
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 group-title="DAZN", DAZN2
 acestream://3e0b292ab03f258f993ba6833b254cca33a79d74
-#EXTINF:-1 group-title="DAZN", DAZN1 HD_M
-acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
-#EXTINF:-1 group-title="DAZN", DAZN1 HD_M
-acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 #EXTINF:-1 group-title="DAZN", DAZN 1 1080
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 group-title="DAZN", DAZN 1 720
@@ -85,6 +81,10 @@ acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 #EXTINF:-1 group-title="M+ Liga de Campeones", LIGA DE CAMPEONES 4
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
+#EXTINF:-1 group-title="M+ Liga de Campeones", L.CAMPEONES HD_M
+acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
+#EXTINF:-1 group-title="M+ Liga de Campeones", L.CAMPEONES HD_
+acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 3 720
 acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 1080 MultiAudio
