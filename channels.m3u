@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="DAZN LaLiga", DAZN LA LIGA
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 1080 MultiAudio 
-acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 1080 MultiAudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 group-title="DAZN LaLiga", DAZN LALIGA HD_M
+acestream://ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
+#EXTINF:-1 group-title="DAZN LaLiga", DAZN LALIGA HD_
+acestream://3d783550706c36af82b5dc053bbf4170173da4c2
+#EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 1080 MultiAudio
+acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+#EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 1080 MultiAudio 
+acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn Liga 720 
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn LaLiga multiaudio
@@ -27,12 +33,12 @@ acestream://2bb483350a420da686c5ec597c0ebb729fe908b3
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 group-title="DAZN", DAZN2
 acestream://3e0b292ab03f258f993ba6833b254cca33a79d74
-#EXTINF:-1 group-title="DAZN", DAZN 1 720
-acestream://84af46abab9de02bdd22818747738cfa5438132e
-#EXTINF:-1 group-title="DAZN", DAZN 1 1080
-acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 group-title="DAZN", DAZN 2 1080
 acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e
+#EXTINF:-1 group-title="DAZN", DAZN 1 1080
+acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
+#EXTINF:-1 group-title="DAZN", DAZN 1 720
+acestream://84af46abab9de02bdd22818747738cfa5438132e
 #EXTINF:-1 group-title="DAZN", DAZN 2 720
 acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
 #EXTINF:-1 group-title="DAZN", DAZN 3 1080
@@ -125,10 +131,6 @@ acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes", MOVISTAR DEPORTES
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes", #vamos HD_M
-acestream://ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
-#EXTINF:-1 group-title="M+ Deportes", #vamos HD_
-acestream://3d783550706c36af82b5dc053bbf4170173da4c2
 #EXTINF:-1 group-title="M+ Deportes", # Vamos 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes", # Vamos 720
