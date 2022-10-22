@@ -55,6 +55,8 @@ acestream://607289717b0bc6ba69ee1ce5f0dc6f718c3d9248
 acestream://218f3f2423d25464f24e43ae55e5846122f93801
 #EXTINF:-1 group-title="M+ LaLiga", M. LA LIGA 720
 acestream://d2b89d5109f73cdd4ce1322bec6b82fa0375d12f
+#EXTINF:-1 group-title="M+ LaLiga", Movistar LaLiga
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 720
@@ -63,8 +65,14 @@ acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF:-1 group-title="M+ LaLiga", LaLiga_720 
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
+#EXTINF:-1 group-title="M+ LaLiga", Movistar LaLiga 2
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", LIGA SMARTBANK
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
+#EXTINF:-1 group-title="M+ LaLiga Smartbank", LaLiga Smartbank
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 group-title="M+ LaLiga Smartbank", LaLiga Smartbank 2
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 3 720
 acestream://1000c018cf4afb7357f10e438e966d23340e4295
 #EXTINF:-1 group-title="M+ LaLiga TV BAR", LaLiga Tv Bar 1080
@@ -127,8 +135,12 @@ acestream://8100d8f6f91008535b64927368f005fd9febb449
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes", # Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 group-title="M+ Deportes", M. Deportes 1080
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
 #EXTINF:-1 group-title="M+ Deportes", M. Deportes 720
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="M+ Deportes", Movistar Deportes
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1 group-title="M+ Deportes", M. Deportes 3 1080
 acestream://85bd65161dfd8c4033194da3c978c0450c9111db
 #EXTINF:-1 group-title="M+ Deportes", M. Deportes 4 1080
@@ -157,18 +169,8 @@ acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido", Canal #Ellas
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido", Real Madrid VS Sevilla 21:00
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
-#EXTINF:-1 group-title="Otro contenido", Ibiza VS levante 21:00
-acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="Otro contenido", SmartBanck 720
 acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
-#EXTINF:-1 group-title="Otro contenido", Mirandés VS Huesca 18:30
-acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
-#EXTINF:-1 group-title="Otro contenido", Canarias VS granada 20:45
-acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
-#EXTINF:-1 group-title="Otro contenido", Gerona VS Fuenlabrada 20:45
-acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1 group-title="Otro contenido", GOL TV 1080
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="Otro contenido", tdp 1080 (TeleDeporte) 
@@ -203,5 +205,3 @@ acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido", ESPN EXTRA Uruguay
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otro contenido", Valencia VS mallorca 18:30
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
