@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LaLiga 2 1080 MultiAudio
-acestream://1124d4366348b76a755710c8d0d5728e39d0095c
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LaLiga 2 720 MultiAudio
-acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LaLiga 1080 MultiAudio
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LaLiga 1080 MultiAudio
-acestream://fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="DAZN LaLiga", DAZN LaLiga 720
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+#EXTINF:-1 group-title="DAZN LaLiga", Dazn liga 1080 MultiAudio
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="DAZN LaLiga", Dazn liga 1080 MultiAudio
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 group-title="DAZN LaLiga", Dazn liga 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1 group-title="DAZN", DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN", DAZN 1 720
@@ -21,18 +17,16 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="DAZN", DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 group-title="M+ LaLiga", M.Liga 1080 Multiaudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080 MultiAudio
-acestream://684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 720
+#EXTINF:-1 group-title="M+ LaLiga", M.Liga 1080 Multiaudio
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 group-title="M+ LaLiga", M.Liga 720 
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 2 1080
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 2 720
-acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+#EXTINF:-1 group-title="M+ LaLiga", M.Liga 2 1080 MultiAudio
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 group-title="M+ LaLiga", M.Liga 2 720 
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 1080 MultiAudio
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 720
@@ -43,10 +37,8 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 3  1080
 acestream://1104426e14b649eb23fee16698768544285de478
-#EXTINF:-1 group-title="M+ LaLiga TV BAR", LaLiga Tv Bar 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF:-1 group-title="M+ LaLiga TV BAR", LaLiga Tv Bar 720
-acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+#EXTINF:-1 group-title="M+ LaLiga TV BAR", Liga bar 1080
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 1080 MultiAudio
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 720
