@@ -45,6 +45,10 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 acestream://1104426e14b649eb23fee16698768544285de478
 #EXTINF:-1 group-title="M+ LaLiga TV BAR", Liga bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 7 SD
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 4K
+acestream:// d9bd69647d672efa10094037f818068542bf40aa
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 1080 MultiAudio
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 720
