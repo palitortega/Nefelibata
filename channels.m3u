@@ -5,12 +5,12 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn liga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 group-title="DAZN F1", dazn f1 1080 
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 group-title="DAZN F1", dazn F1-720
 acestream//a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 group-title="DAZN F1", dazn F1 1080
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+#EXTINF:-1 group-title="DAZN F1", dazn f1 1080 
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 group-title="DAZN", DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN", DAZN 1 720
