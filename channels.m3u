@@ -5,6 +5,8 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn liga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="DAZN F1", dazn F1 1080
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 group-title="DAZN F1", dazn f1 1080 
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 group-title="DAZN F1", dazn F1 720
@@ -33,10 +35,6 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 3  1080
 acestream://1104426e14b649eb23fee16698768544285de478
-#EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 1080 MultiAudio
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="M+ LaLiga Smartbank", Smartbank 720
-acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 #EXTINF:-1 group-title="M+ LaLiga TV BAR", M. Liga Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 1080 MultiAudio
