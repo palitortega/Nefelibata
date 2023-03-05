@@ -5,6 +5,8 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 group-title="DAZN LaLiga", Dazn liga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="DAZN F1", Dazn F1 720
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 group-title="DAZN F1", Dazn F1 1080
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 group-title="DAZN F1", dazn F1 1080 
@@ -91,8 +93,6 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 group-title="Otro contenido", tdp 1080 (TeleDeporte)
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="Otro contenido", acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 group-title="Otro contenido", GOL TV 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otro contenido", LA 1 1080
