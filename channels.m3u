@@ -19,8 +19,6 @@ acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title="DAZN", DAZN 2 720
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080 Multiaudio
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080 MultiAudiobis
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="M+ LaLiga", M. LaLiga 1080 MultiAudiotris
@@ -39,6 +37,8 @@ acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="M+ LaLiga Smartbank", LaLiga Smartbank2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="M+ LaLiga TV BAR", M. LaLiga TV Bar
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 1080 MultiAudio
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Liga de Campeones", M.L. Campeones 1080 MultiAudiobis
