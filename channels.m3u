@@ -22,7 +22,7 @@ acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" ,DAZN 2 720
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" ,M. LaLiga 1080 MultiAudiobis
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" ,M. LaLiga 1080 MultiAudiotris
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" ,M. LaLiga 720
@@ -55,6 +55,8 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" ,M. Deportes 2 1080
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES3HD" ,M. Deportes 3 1080
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" ,M. Golf 1080
 acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF2 HD" ,M. Golf2 1080
@@ -73,3 +75,5 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" ,Gol TV
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="Movistar Plus" ,Movistar Plus
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
