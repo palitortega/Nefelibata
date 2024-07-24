@@ -79,3 +79,5 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Movistar Plus" ,Movistar Plus
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN Premium" ,ESPN Premium
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
